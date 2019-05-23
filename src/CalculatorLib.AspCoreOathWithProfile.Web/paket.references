@@ -1,0 +1,5 @@
+AspNet.Security.OAuth.GitHub
+Microsoft.AspNetCore.All
+Microsoft.AspNetCore.Authentication.Facebook
+Microsoft.AspNetCore.Authentication.Twitter
+Microsoft.VisualStudio.Web.CodeGeneration.Design

@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+
+nuget AspNet.Security.OAuth.GitHub 2.0.0-rc2-final prerelease
+nuget Microsoft.AspNetCore.All 2.0.0
+nuget Microsoft.AspNetCore.Authentication.Facebook 2.0.3
+nuget Microsoft.AspNetCore.Authentication.Twitter 2.0.3
+nuget Microsoft.VisualStudio.Web.CodeGeneration.Design 2.0.2
